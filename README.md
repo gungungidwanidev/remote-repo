@@ -1,2 +1,2 @@
 # remote-repo
-learning purpose
+learning purpose for coding
